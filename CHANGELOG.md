@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [v8.6.5](https://github.com/RayRedGoose/canvas-kit/releases/tag/v8.6.5) (2023-05-09)
+
+### Components
+
+- chore: Add actions for major release ([@RayRedGoose](https://github.com/RayRedGoose))
+
+
 ## [v8.6.4](https://github.com/Workday/canvas-kit/releases/tag/v8.6.4) (2023-05-01)
 
 ### BREAKING CHANGES
